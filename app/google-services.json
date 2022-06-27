@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091168364882",
+    "project_id": "sample-67bef",
+    "storage_bucket": "sample-67bef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091168364882:android:1349d30784b9d7c3c9728b",
+        "android_client_info": {
+          "package_name": "example.com.animalbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091168364882-86btqn8q3vmp33vt15jngeujemhc5jei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqibcY-7kiRagKc18ywW3wfa27bKRJlkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091168364882-86btqn8q3vmp33vt15jngeujemhc5jei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
